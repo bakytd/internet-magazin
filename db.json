@@ -1,0 +1,121 @@
+{
+  "mangas": [
+    {
+      "title": "Госпожа Кагуя: В любви как на войне. Любовная битва двух гениев.",
+      "description": "ООО ИЗДАТЕЛЬСКАЯ ГРУППА АЗБУКА-АТТИКУС",
+      "price": 17,
+      "color": "Белый",
+      "photo": "https://images.wbstatic.net/c516x688/new/39100000/39105106-1.jpg",
+      "modal": "Госпожа Кагуя",
+      "id": 1
+    },
+    {
+      "title": " Naruto. Наруто. Книга 4. Превосходный ниндзя ",
+      "description": "ООО ИЗДАТЕЛЬСКАЯ ГРУППА АЗБУКА-АТТИКУС",
+      "price": 14,
+      "color": "arg",
+      "photo": "https://images.wbstatic.net/c516x688/new/39330000/39338674-1.jpg",
+      "modal": "Naruto",
+      "id": 2
+    },
+    {
+      "title": "Атака на титанов. Книга 17",
+      "description": "ООО ИЗДАТЕЛЬСКАЯ ГРУППА АЗБУКА-АТТИКУС",
+      "price": 12,
+      "color": "Серый",
+      "photo": "https://images.wbstatic.net/c516x688/new/40170000/40170088-1.jpg",
+      "modal": "Атака Титанов",
+      "id": 3
+    },
+    {
+      "title": "Моя геройская академия. Кн.7 ",
+      "description": "ООО ИЗДАТЕЛЬСКАЯ ГРУППА АЗБУКА-АТТИКУС",
+      "price": 17,
+      "color": "Белый",
+      "photo": "https://images.wbstatic.net/c516x688/new/36990000/36994340-1.jpg",
+      "modal": "Моя геройская академия",
+      "id": 4
+    },
+    {
+      "title": "Свита короля",
+      "description": "ООО ИЗДАТЕЛЬСКАЯ ГРУППА АЗБУКА-АТТИКУС",
+      "price": 10,
+      "color": "Белый",
+      "photo": "https://images.wbstatic.net/c516x688/new/29470000/29470231-1.jpg",
+      "modal": "Свита короля",
+      "id": 5
+    },
+    {
+      "title": "Naruto. Наруто. Книга 1. Наруто Удзумаки",
+      "description": "ООО ИЗДАТЕЛЬСКАЯ ГРУППА АЗБУКА-АТТИКУС",
+      "price": 23456,
+      "color": "Белый",
+      "photo": "https://upload.wikimedia.org/wikipedia/ru/1/11/Naruto-manga.jpg",
+      "modal": "Naruto",
+      "id": 6
+    },
+    {
+      "title": "Моя геройская академия. Кн.1 ",
+      "description": "ООО ИЗДАТЕЛЬСКАЯ ГРУППА АЗБУКА-АТТИКУС",
+      "price": 9,
+      "color": "Белый",
+      "photo": "https://images.wbstatic.net/c516x688/new/10680000/10688667-1.jpg",
+      "modal": "Моя геройская академия",
+      "id": 8
+    },
+    {
+      "title": " Госпожа Кагуя: В любви как на войне. Любовная битва двух гениев. Кн.3 ",
+      "description": "ООО ИЗДАТЕЛЬСКАЯ ГРУППА АЗБУКА-АТТИКУС",
+      "price": 18,
+      "color": "Белый",
+      "photo": "https://images.wbstatic.net/c516x688/new/31450000/31452884-1.jpg",
+      "modal": "Госпожа Кагуя",
+      "id": 9
+    },
+    {
+      "title": " Госпожа Кагуя: В любви как на войне. Любовная битва двух гениев. Кн.2  ",
+      "description": "ООО ИЗДАТЕЛЬСКАЯ ГРУППА АЗБУКА-АТТИКУС",
+      "price": 20,
+      "color": "Белый",
+      "photo": "https://images.wbstatic.net/c516x688/new/18380000/18386802-1.jpg",
+      "modal": "Госпожа Кагуя",
+      "id": 10
+    },
+    {
+      "title": "Манга Sailor Moon. Том 1",
+      "description": "ООО ИЗДАТЕЛЬСКАЯ ГРУППА АЗБУКА-АТТИКУС",
+      "price": 8,
+      "color": "Белый",
+      "photo": "https://images.wbstatic.net/c516x688/new/31430000/31439254-1.jpg",
+      "modal": "Sailor Moon",
+      "id": 11
+    },
+    {
+      "title": "Манга Sailor Moon. Том 3",
+      "description": "ООО ИЗДАТЕЛЬСКАЯ ГРУППА АЗБУКА-АТТИКУС",
+      "price": 10,
+      "color": "Белый",
+      "photo": "https://images.wbstatic.net/c516x688/new/31440000/31441435-1.jpg",
+      "modal": "Sailor Moon",
+      "id": 12
+    },
+    {
+      "title": "Манга Sailor Moon. Том 3",
+      "description": "Продавец: ООО \"ЧИСТЫЙ СОФТ ЦЕНТР",
+      "price": 12,
+      "color": "Белый",
+      "photo": "https://images.wbstatic.net/c516x688/new/31440000/31441435-1.jpg",
+      "modal": "Sailor Moon",
+      "id": 13
+    },
+    {
+      "title": "Манга Sailor Moon. Том 3",
+      "description": "Продавец: ООО \"ЧИСТЫЙ СОФТ ЦЕНТР",
+      "price": 12,
+      "color": "Белый",
+      "photo": "https://images.wbstatic.net/c516x688/new/31440000/31441435-1.jpg",
+      "modal": "Sailor Moon",
+      "id": 14
+    }
+  ]
+}
